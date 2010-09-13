@@ -20,7 +20,7 @@
   </parent>
 
   <artifactId>maven-common-artifact-filters</artifactId>
-  <version>1.3-m1-jboss</version>
+  <version>1.3-m2-jboss-SNAPSHOT</version>
 
   <name>Maven Common Artifact Filters</name>
   <description>
