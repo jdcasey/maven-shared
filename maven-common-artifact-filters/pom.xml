@@ -10,7 +10,7 @@
   governing permissions and limitations under the License.
 -->
 
-<project xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd' xmlns='http://maven.apache.org/POM/4.0.0'>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
   <parent>
@@ -20,7 +20,7 @@
   </parent>
 
   <artifactId>maven-common-artifact-filters</artifactId>
-  <version>1.3-m1-jboss-SNAPSHOT</version>
+  <version>1.3-m1-jboss</version>
 
   <name>Maven Common Artifact Filters</name>
   <description>
